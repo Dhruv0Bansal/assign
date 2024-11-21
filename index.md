@@ -3,14 +3,14 @@
 Welcome to my personal portfolio website! Below you will find information about me, my background, my interests, and how to contact me.
 
 ---
-
+ 
 ## About Me
 
 I am a passionate and driven individual with a deep interest in web development and technology. I love creating impactful, user-friendly applications that solve real-world problems. I enjoy working on both front-end and back-end development and am constantly learning new skills to improve my craft.
 
 ---
 ## MY PROFIL PHOTO
-[photo](/asset/me.jpg)
+![photo](/asset/me.jpg)
 ## Education
 
 | Year       | Degree                             | Institution                  |
