@@ -13,6 +13,8 @@ I am a passionate and driven individual with a deep interest in web development 
 ![photo](/asset/me.jpg)
 ## Education
 
+![pompom](https://www.youtube.com/watch?v=YQHsXMglC9A&ab_channel=AdeleVEVO)
+
 | Year       | Degree                             | Institution                  |
 |------------|------------------------------------|------------------------------|
 | 2024       | Bachelor of Science in Computer Science | University of Example        |
